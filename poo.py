@@ -3,7 +3,7 @@ class Coche():
     def __init__(self):
         self.__largochasis=150
         self.__anchochasis=100
-        self.__ruedas=3
+        self.__ruedas=4
         self.__enmarcha=False
     
     
